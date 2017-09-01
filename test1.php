@@ -1,4 +1,2 @@
 <?php
-# include 'databaseconnect.php';
-
-echo "hello";
+echo "I am a bot";
